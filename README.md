@@ -1,11 +1,18 @@
 # Today Todo
 _Simple todo list application, used to practice full-stack development._
 
+## Design Prototype
+### Mobile  
+![mobile-ui](docs/images/prototype-mobile.png)  
+
+### Desktop
+![desktop-ui](docs/images/prototype-desktop.png)
+
 ## Application Architecture
-![architecture](architecture.png)
+![architecture](docs/images/architecture.png)
 
 ## Data Model
-![data-model](data_model.png)
+![data-model](docs/images/data_model.png)
 
 ## Design Consideration
 **Load Balancer**  
